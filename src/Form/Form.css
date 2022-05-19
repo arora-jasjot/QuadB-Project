@@ -1,0 +1,28 @@
+#form form div,
+#form button {
+    margin: 10px 0 2px 0;
+}
+
+#form form,
+#form #button {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+
+#form #button button {
+    background-color: green;
+    padding: 5px 30px;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+#form #button button:nth-of-type(2) {
+    margin-left: 15px;
+    background-color: red;
+}
+
+#form #message {
+    color: green;
+}

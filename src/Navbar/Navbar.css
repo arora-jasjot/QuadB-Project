@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+#navbar {
+    width: 100%;
+    height: fit-content;
+    background-color: #112B3C;
+    text-align: center;
+    padding: 10px;
+}
+
+#navbar h2 {
+    color: #EFEFEF;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    font-family: 'Macondo', cursive;
+}
